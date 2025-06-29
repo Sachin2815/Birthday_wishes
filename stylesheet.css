@@ -1299,7 +1299,13 @@ audio {
         color: #fff;
         background-color: #466baf;
     }
-
+	.message p {
+		font-size: 18px;
+		padding: 5px 15px;
+		line-height: 1.5;
+		text-align: center;
+	  }
+	  
 
 
     /*controlling tablet width*/
